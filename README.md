@@ -12,4 +12,4 @@ The requirements are fairly open, all that we are asking is that you...
 - Don't assume your audience has any prior knowledge
 - Have fun!
 
-Please send your topic choices to @zeb on Slack by Sunday, so we can put together a presentation order.
+Please send your topic choices by Google Form by Sunday, so we can put together a presentation order.
